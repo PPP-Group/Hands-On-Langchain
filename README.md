@@ -7,7 +7,11 @@
 #### 01. Langchain Hands-on  [QuickStart]
 - Langchain Hands-On #01.ipynb
 #### 02. Langchain Hands-on  [LCEL]
+- Langchain Hands-On #02.ipynb
 #### 03. Langchain Hands-on  [Modules]
-#### 04. Langchain Hands-on  [LangServe]
-#### 05. Langchain Hands-on  [LangSmith]
-#### 06. Langchain Hands-on  [LangGraph]
+- Langchain Hands-On #03.ipynb
+#### 04. Langchain Hands-on  [Agent]
+- Langchain Hands-On #04.ipynb
+#### 05. Langchain Hands-on  [LangServe]
+#### 06. Langchain Hands-on  [LangSmith]
+#### 07. Langchain Hands-on  [LangGraph]
